@@ -5,6 +5,7 @@ public class _1except1 {
         int[] numbers = { 1, 2, 3, 4, 5 };
         int index1 = 10;
         int index2 = 0;
+        System.out.println("trying changes..");
 
         try {
             // Outer try block
